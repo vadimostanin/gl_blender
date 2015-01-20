@@ -37,6 +37,7 @@
 									<listOptionValue builtIn="false" value="X11"/>
 									<listOptionValue builtIn="false" value="glut"/>
 									<listOptionValue builtIn="false" value="GLU"/>
+									<listOptionValue builtIn="false" srcPrefixMapping="" srcRootPath="" value="glfw"/>
 								</option>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1140788343" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
@@ -48,11 +49,11 @@
 							</tool>
 						</toolChain>
 					</folderInfo>
-					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1688834633.211575809" name="graphics_3d_move_rotation_scale (copy).cpp" rcbsApplicability="disable" resourcePath="src/graphics_3d_move_rotation_scale (copy).cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702.1497286600">
-						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702.1497286600" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702"/>
+					<fileInfo id="cdt.managedbuild.config.gnu.exe.debug.1688834633.1271664387" name="show_obj1.cpp" rcbsApplicability="disable" resourcePath="src/show_obj1.cpp" toolsToInvoke="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702.1496705811">
+						<tool id="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702.1496705811" name="GCC C++ Compiler" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.exe.debug.338393702"/>
 					</fileInfo>
 					<sourceEntries>
-						<entry excluding="graphics_3d_move_rotation_scale (copy).cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+						<entry excluding="show_obj1.cpp|gl_blender.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
